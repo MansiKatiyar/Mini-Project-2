@@ -94,7 +94,7 @@ input:disabled {
 }
 
 .chat a {
-    color: rgb(49 91 188) !important;
+    color: yellow !important;
 }
 
 .chat__footer {
@@ -163,7 +163,7 @@ input:disabled {
         color: white;
         padding: 7px !important;
         z-index: 10;
-        background-color: #075E54;
+        background-color: yellow;
 
     }
 
